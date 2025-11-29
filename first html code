@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>LPU</title>
+        <meta charset = "UTF-8">
+        <meta name = "viewpost" content = "width device initial-scale = 1.0">
+        <meta name = "discription" content = " lovely professional university is one of the largest university in India">
+        <meta name = "keywords" content = "LPU, Lovely, professional, university">
+        <meta name = "author" content = "K25DR">
+        <meta http equiv = "refresh" content = "5">
+        <style>
+            .section{
+                background-color: rgb(237, 240, 241);
+                padding: 90px;
+                margin: 120px;
+                border: 100px solid rgb(6, 1, 14);
+                border-radius: 20px;
+                
+            }
+            /*uggygyutrtrtetyyeeytey*/
+        </style>
+    </head>
+    <body> <div class="section">
+                                             <h1 align="center"><b>LPU</b> </h1>
+                                        <h3 align="right"> By Sumit Rana - B.Tech CSE</h3></div> <br>
+        <div class ="section"> <h2><b>INTRODUCTION</b></h2>                              
+        <p><u>Lovely Professional University<b>(LPU)</b>is one of the largest university in India.</u><br> 
+            It is located in Phagwara, Punjab<br> The university is known for its world-class infrastructure and diverse student community from all over world.<br></p></div> 
+         <div class ="section"><h2><b>FACITITIES</b></h2>
+        <p><ul>
+            <li>Modern <mark><i>classroom</i></mark>with smart technology </li>
+            <li>Well-<b>equipped <strong>laboratories</strong></b></li>
+            <li>Sports <u>stadium</u> and <mark>ground</mark></li>
+            <li>Hostels  with <q>all basic facilities</q></li>
+        </ul></p>
+         </div>
+         <div class ="section"><h2><b>ACEDEMIC PROGRESS</b></h2>
+            <p>
+                <ol type="1.">
+                    <li>Engineering and Technology</li>
+                    <li>Business and Humaities</li>
+                    <li>Arts and Education</li>
+                    <li>Medical and Allied Science</li><br>
+                </ol>
+            </p>
+        </div>
+        <div class="section"><h2><b>COURSES</b></h2></div>
+        <p><table border="2">
+            <tr>
+                <th>Category</th>
+                <th>courses</th>
+                <th>times</th>
+            </tr>
+            <tr>
+                <td >Engineering and Technology</td>
+                <td>B.tech and M.tech</td>
+                <td>4 to 6 years</td></tr>
+            <tr>
+                <td>Bussiness and Management</td>
+                <td>BBA,MBA</td>
+                <td>2 to 3years</td>
+            </tr>
+            <tr>
+                <td>Art and humanities</td>
+                <td>BA, MA</td>
+                <td>2 to 3years</td>
+            </tr>
+            <tr>
+                <td>Science and Computer Science</td>
+                <td>B.Sc and BCA</td>
+                <td>3 TO 4 years</td>
+            </tr>
+        </table></p>
+        <abbr title="hyper text mark languages">HTML</abbr><cite>LPU is best private university in india</cite> <br>
+        <dfn>HTML</dfn> <small>i am the sumit rana</small><q>I am a chess player</q><blockquote><p><u>HTML stands for hyper text markup languages</u></p></blockquote><br>
+        <blockquote cite="c:\Users\Admin\OneDrive\Pictures\wp12437470-goku-hd-4k-wallpapers.jpg"> I am biggest GOKU fan</blockquote>
+        
+        <ul type="dot"><h3><b>chemical formula</b></h3><br>
+        <ol>
+            <li>H<sub>2</sub>O</li>
+            <li>Al<sub>2</sub>O<sub>3</sub></li>
+            <li>SO<sub>4</sub></li>
+            <li>CO<sub>2</sub></li>
+            <li>H<sub>3</sub>O<sup>+</sup></li>
+        </ol></ul> <ins>These are the chemical formula of chemistry</ins>
+        <fieldset><legend>Registration Form</legend>
+        <form action="form.action.php" method="get">
+            Name:<input type="text" name="username"><br><br>]
+            age:<input type="number" name="age"><br>
+            address:<input type="text" name="type the address here">
+            <input type="submit" values="submit">
+            <select>state
+                <option>UP</option>
+                <option>MP</option>
+                <option>HP</option>
+                <option>Delhi</option>
+            </select>
+        </form></fieldset>
+        <a href="c:\Users\Admin\OneDrive\Pictures\Camera Roll\WIN_20250804_13_10_05_Pro.mp4" target="_blank">send mail</a><br>
+        <a href="tel:+9805129546">call us</a>
+        <a href="#about">Go to above section</a>
+        <h2 id = "about">about us</h2>
+        <img src="c:\Users\Admin\Downloads\wp12437470-goku-hd-4k-wallpapers.jpg" alt="God father of Anime" width="500" height="500">
+        <a href="https://www.google.com">
+            <img src="logo.png" alt="google logo" width="150">
+        </a>
+        <audio controls>
+            <source src="c:\Users\Admin\Downloads\sone-rangderanjheya-67913.mp3" type="audio/mpeg">
+            your browser does not support  the audio tag.
+        </audio>
+        <p align="center"><video width="600" height="700" controls>
+            <source src="c:\Users\Admin\Downloads\vlipsy-dragon-ball-super-ultra-instinct-goku-o5JPuNjM.mp4">
+            father of anime in action
+        </video></p>
+        <p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/0Sxkxz_Ee6s?si=sXAoQUB6uQhZZHoh"
+             title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-"></iframe></p>
+        </body></html>
