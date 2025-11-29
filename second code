@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>This is my first web pages</title>
+        <link rel="icon" type="images/jpg" href="c:\Users\Admin\OneDrive\Desktop\space imge\wp4990451-4k-space-wallpapers.jpg">
+
+        <meta charset = "UTF-8">
+        <meta name = "viewpost" content = "width device initial-scale = 1.0">
+        <meta name = "discription" content = " this document is for metadata">
+        <meta name = "keywords" content = "meta, dates, hello">
+        <meta name = "author" content = "K25DR">
+        <meta http equiv = "refresh" content = "5">
+    </head>
+    <body>
+         <b><h3>warning</h3></b><br><u>Do not touch it.</u><br>
+        5x<sup>2</sup><br>
+        <!--<sup> =power-->
+        H<sub>2</sub>O<br>
+        <!--<sub> =down-->
+        <u>HTML</u><br>
+        <i>Hello</i><br>
+        <em>study hard</em><br>
+        <!--<em> = emphasises-->
+        <del>300</del><br> <!--<del> = delete-->
+
+        <s>500</s><br>
+        <ins>world</ins><br>  <!--<sup> power-->
+        he says<q>I will go </q> <!--<q> quotation-->
+        <!--next day work-->
+        <blockquote>"education is the most powerfull weapon</blockquote>
+        <dfn>HTML</dfn>
+        <cite>the greater india gate</cite>
+         <!--next day work-->
+          <!--hyperlink-->
+          <a href="https://www.google.com" target ="_blank">Visit Google</a><br>
+ <a href="list.html"></a>
+        
+        <a href="https://www.youtube.com" target ="_blank">Visit youtube</a><br>
+        <a href="sumitrana13790@gmail .com" target ="_blank">Send Mail</a><br>
+        <a href="tel:+8091913379" target ="_blank">call us</a><br>
+        <a href="#link" >link</a>
+        <img src = "c:\Users\Admin\OneDrive\Desktop\space imge\wp4990451-4k-space-wallpapers.jpg" height="200px" width="500" alt="space">
+        <img src="c:\Users\Admin\Downloads\sung-jinwoo-neon-3840x2160-15598.jpg" height="200px" width="500" alt="Sung Jinwoo">
+        <!--next date work-->
+        <a href="https://www.google.com" target="_blank"><img src ="c:\Users\Admin\Downloads\sung-jinwoo-neon-3840x2160-15598.jpg " height="200px" width="500" alt="sung jinwoo"></a>
+         <audio controls>
+            <source src="c:\Users\Admin\Downloads\sone-rangderanjheya-67913.mp3" type="audio/wav">
+         </audio>
+         <video controls  height="500px" width="500">
+            <source src="c:\Users\Admin\Downloads\83274-581386222_small.mp4">
+         </video>
+          <video controls  height="500px" width="500">
+            <source src="c:\Users\Admin\Downloads\vlipsy-dragon-ball-super-ultra-instinct-goku-o5JPuNjM.mp4">
+         </video>
+         <video controls autoplay loop  height="500px" width="500">
+            <source src="c:\Users\Admin\Downloads\vlipsy-dragon-ball-super-goku-suddenly-got-stronger-vO88dNzt.mp4">
+         </video>
+         <!--ifame used by video share from youtube-->
+         <iframe width="560" height="315" src="https://www.youtube.com/embed/0uu1jI_LTi4?si=Hcl3jRe7A9zFM49a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-"></iframe>
+        <!--table-->
+
+        <table border="1">
+            <tr>
+                <th colspan="2">name</th> 
+                <th>age</th>
+                <th rowspan="2">,Marks</th>
+            </tr>
+            <tr>
+                 <td>sumit</td>
+                 <td>18</td>
+            </tr></table>
+            <!--html form-->
+            <form action="form.php" method="post">
+                Name<input type="text">
+                password<input type="password">
+                address:<textarea rows="4" cols="20">type your address here</textarea>
+                gender :<input type="radio" name="gender" value="Male">Male
+                <input type="radio" name="gender" value="female">female
+                Hobbies
+                <input type="checkbox">playing
+                <input type="checkbox">reading
+                <input type="submit" value="submit"><br>
+
+                <select>
+                    <option>kolkata</option>
+                    <option>hp</option>
+                    <option>mp</option>
+                </select><br>
+
+                upload by file
+                <input type="file"><br>
+                 <input type="time"><br>
+                  <input type="month"><br>
+                   <input type="datetime-local"><br>
+                    <input type="range"><br>
+                     <input type="color"><br>
+            </form>
+      
+        
+ </body></html>
